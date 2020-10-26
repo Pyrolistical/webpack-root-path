@@ -7,7 +7,7 @@ module.exports = {
     })
   ],
 
-  // uncomment to make it work
+  // uncomment to make it work in webpack v4
   // resolve: {
   //   roots: [
   //     __dirname
